@@ -1,3 +1,4 @@
 123456
 goodbye
 line add user2
+new line from user2
