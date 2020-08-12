@@ -1,7 +1,3 @@
 t3
-<<<<<<< HEAD
 good evening (from master)
 
-=======
-123
->>>>>>> 3e1e68c266d089e188720458064a537e09c00e4b
